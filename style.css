@@ -167,6 +167,7 @@ body {
   border-radius: 4px;
   background-color: #288be6;
   color: #ffffff;
+  align-items: center;
 }
 
 .page-footer {
@@ -191,4 +192,8 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+
+.floppa {
+  border-radius: 50%;
 }
